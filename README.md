@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🖼️ Troque a linha abaixo pelo link da sua imagem de banner -->
-<img src="https://i.pinimg.com/originals/20/98/22/20982203dc928f8fad300cdeeb4d20b1.gif" width="50%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/LucasC0der/lucas683/main/assets/banner.gif" width="50%" alt="banner"/>
 
 </div>
 
