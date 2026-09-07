@@ -7,7 +7,7 @@
 
 <br>
 
-## About/Sobre mim
+## About me/Sobre mim
 
 16 Anos, aprendiz de programação, estudante e construtor de projetos. Trabalhando no meu próprio site de estudos, com foco em performance, organização de conteúdo e ferramentas voltadas a aprendizado.
 
