@@ -26,7 +26,7 @@
 - 🎯 Atualmente focado em **JavaScript, Python e desenvolvimento web**.
 - 🛠️ Gosto de aprender construindo projetos na prática.
 
-## 🧰 Tecnologias
+## 🧰 Core Skills
 
 <div align="center">
 
