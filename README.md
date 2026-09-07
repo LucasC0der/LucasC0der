@@ -11,7 +11,7 @@
 
 16 Anos, aprendiz de programação, estudante e construtor de projetos. Trabalhando no meu próprio site de estudos, com foco em performance, organização de conteúdo e ferramentas voltadas a aprendizado.
 
-📍 Brasil &nbsp;•&nbsp; 💻 lucas683
+📍 Brasil &nbsp;•&nbsp; 💻 LucasC0der
 
 <br>
 
