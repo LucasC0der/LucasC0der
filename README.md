@@ -7,9 +7,9 @@
 
 <br>
 
-## about
+## About/Sobre mim
 
-16-year-old aprendiz de programação, estudante e construtor de projetos. Trabalhando no meu próprio site de estudos, com foco em performance, organização de conteúdo e ferramentas voltadas a aprendizado.
+16 Anos, aprendiz de programação, estudante e construtor de projetos. Trabalhando no meu próprio site de estudos, com foco em performance, organização de conteúdo e ferramentas voltadas a aprendizado.
 
 📍 Brasil &nbsp;•&nbsp; 💻 lucas683
 
