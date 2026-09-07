@@ -15,7 +15,7 @@
 
 <br>
 
-## core skills
+## Core skills
 
 **languages:** javascript · python · lua · html · css
 
@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=js,py,lua,html,css" />
 </p>
 
-**frameworks & tools:**
+**Frameworks & tools:**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode" />
@@ -31,7 +31,7 @@
 
 <br>
 
-## 📊 github stats
+## 📊 Github stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucas683&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
@@ -44,7 +44,7 @@
 
 <br>
 
-## 📌 projetos em destaque
+## 📌 Projetos em destaque
 
 - **App de Estudos** — SPA de estudos com flashcards, redação assistida por IA e sistema de desempenho (em desenvolvimento)
 - **[streamflix](https://github.com/lucas683/streamflix)**
