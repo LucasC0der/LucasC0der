@@ -46,7 +46,7 @@
 
 ## 📌 projetos em destaque
 
-- **App de Estudos** — SPA de estudos com flashcards, redação assistida por IA e sistema de desempenho
+- **App de Estudos** — SPA de estudos com flashcards, redação assistida por IA e sistema de desempenho (em desenvolvimento)
 - **[streamflix](https://github.com/lucas683/streamflix)**
 - **[jscriptreceba](https://github.com/lucas683/jscriptreceba)**
 - **[Repositorio-js2](https://github.com/lucas683/Repositorio-js2)**
