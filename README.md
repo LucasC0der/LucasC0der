@@ -1,56 +1,60 @@
-# 👋 Olá, eu sou o Lukius!
+<div align="center">
 
-### 💻 Desenvolvedor em aprendizado • 🇧🇷 Brasil
+<!-- 🖼️ Troque a linha abaixo pelo link da sua imagem de banner -->
+<img src="[COLOQUE_AQUI_O_LINK_DA_SUA_IMAGEM](https://i.pinimg.com/originals/20/98/22/20982203dc928f8fad300cdeeb4d20b1.gif)" width="100%" alt="banner"/>
 
-**Python · JavaScript · Lua**
+</div>
 
-![Projetos](https://img.shields.io/badge/Projetos-Visitar-181717?style=for-the-badge&logo=github&logoColor=white)
-![Seguidores](https://img.shields.io/github/followers/lucas683?style=for-the-badge&label=Seguidores)
+<br>
 
----
+## about
 
-## 🧑‍💻 Sobre mim
+16-year-old aprendiz de programação, estudante e construtor de projetos. Trabalhando no meu próprio site de estudos, com foco em performance, organização de conteúdo e ferramentas voltadas a aprendizado.
 
-- 🚀 Gosto de transformar ideias em projetos e sites.
-- 📚 Sempre estudando programação e novas tecnologias.
-- 🎯 Atualmente focado em **JavaScript, Python e desenvolvimento web**.
-- 🛠️ Gosto de aprender construindo projetos na prática.
+📍 Brasil &nbsp;•&nbsp; 💻 lucas683
 
-## 🧰 Tecnologias
+<br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+## core skills
 
-## 📌 Projetos em destaque
+**languages:** javascript · python · lua · html · css
 
-### 📚 App de Estudos
-Aplicação (SPA) de estudos com organização de conteúdo por matéria/série, flashcards alinhados ao currículo, módulo de redação (ENEM) com correção assistida por IA, calendário e sistema de desempenho com gráficos.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,py,lua,html,css" />
+</p>
 
-### 🎬 [streamflix](https://github.com/lucas683/streamflix)
-Projeto em CSS.
+**frameworks & tools:**
 
-### 🧾 [jscriptreceba](https://github.com/lucas683/jscriptreceba)
-Projeto em JavaScript.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode" />
+</p>
 
-### 🗂️ [Repositorio-js2](https://github.com/lucas683/Repositorio-js2)
-Projeto em HTML.
+<br>
 
-## 📊 GitHub
+## 📊 github stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucas683&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucas683&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas683&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas683&layout=compact&theme=transparent&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lucas683&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
 
-## 🔥 Atividade
+<br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lucas683&theme=transparent&hide_border=true)
+## 📌 projetos em destaque
 
----
+- **App de Estudos** — SPA de estudos com flashcards, redação assistida por IA e sistema de desempenho
+- **[streamflix](https://github.com/lucas683/streamflix)**
+- **[jscriptreceba](https://github.com/lucas683/jscriptreceba)**
+- **[Repositorio-js2](https://github.com/lucas683/Repositorio-js2)**
 
-### ⭐ Valeu por passar por aqui!
+<br>
 
-**Sempre aprendendo. Sempre construindo.**
+<div align="center">
+
+**sempre aprendendo. sempre construindo.**
+
+</div>
