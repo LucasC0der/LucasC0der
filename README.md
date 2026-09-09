@@ -31,12 +31,15 @@
 
 <br>
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasC0der&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasC0der&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</p>
+### 📈 Estatísticas
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasC0der&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasC0der&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" width="49%" />
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LucasC0der&theme=radical&hide_border=true" />
