@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 🖼️ Troque a linha abaixo pelo link da sua imagem de banner -->
+<!-- Troque a linha abaixo pelo link da sua imagem de banner -->
 <img src="https://raw.githubusercontent.com/LucasC0der/lucas683/main/assets/banner.gif" width="50%" alt="banner"/>
 
 </div>
@@ -11,13 +11,13 @@
 
 16 Anos, aprendiz de programação, estudante e construtor de projetos. Trabalhando no meu próprio site de estudos, com foco em performance, organização de conteúdo e ferramentas voltadas a aprendizado.
 
-📍 Brasil &nbsp;•&nbsp; 💻 LucasC0der
+🇧🇷 Brasil &nbsp;•&nbsp; 👨‍💻 LucasC0der
 
 <br>
 
 ## Core skills
 
-**languages:** javascript · python · lua · html · css
+**languages:** javascript • python • lua • html • css
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,py,lua,html,css" />
@@ -31,25 +31,25 @@
 
 <br>
 
-## 📊 Github stats
+## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucas683&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas683&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasC0der&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasC0der&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucas683&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=LucasC0der&theme=radical&hide_border=true" />
 </p>
 
 <br>
 
-## 📌 Projetos em destaque
+## 🚀 Projetos em destaque
 
 - **App de Estudos** — SPA de estudos com flashcards, redação assistida por IA e sistema de desempenho (em desenvolvimento)
-- **[streamflix](https://github.com/lucas683/streamflix)**
-- **[jscriptreceba](https://github.com/lucas683/jscriptreceba)**
-- **[Repositorio-js2](https://github.com/lucas683/Repositorio-js2)**
+- **[streamflix](https://github.com/LucasC0der/streamflix)**
+- **[jscriptreceba](https://github.com/LucasC0der/jscriptreceba)**
+- **[Repositorio-js2](https://github.com/LucasC0der/Repositorio-js2)**
 
 <br>
 
