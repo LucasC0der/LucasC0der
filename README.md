@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasC0der&theme=radical" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasC0der&theme=radical" width="45%" />
 </div>
 
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasC0der&theme=radical" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasC0der&theme=radical" width="50%" />
 </div>
 
 <br>
