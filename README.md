@@ -12,7 +12,7 @@
 
 </div>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim/About me 
 
 Sou estudante e desenvolvedor, focado em aprender programação na prática e transformar ideias em projetos reais. Gosto de criar interfaces, testar tecnologias e evoluir meus projetos aos poucos.
 
@@ -22,7 +22,7 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 </div>
 
-## 🛠️ Tecnologias
+## 🛠️ Core skills/Frameworks
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,python,lua,html,css,react,nodejs,git,github,vscode&perline=10" alt="Tecnologias" />
@@ -49,9 +49,9 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 ## 🚀 Projetos em destaque
 
-- **Study App** — plataforma de estudos com flashcards, diagnósticos, acompanhamento de desempenho e recursos para aprendizagem.
-- **Streamflix** — projeto focado em interface e desenvolvimento web.
-- **JavaScriptReceba** — exercícios e experimentos para praticar JavaScript.
+- **Study App** — plataforma de estudos com flashcards, diagnósticos, acompanhamento de desempenho e recursos para aprendizagem.( em desenvolvimento )
+- **Streamflix** — projeto focado em interface e desenvolvimento web. (academico)
+- **JavaScriptReceba** — exercícios e experimentos para praticar JavaScript. (academico)
 
 <div align="center">
 
