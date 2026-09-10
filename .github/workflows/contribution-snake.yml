@@ -36,5 +36,6 @@ jobs:
             echo "Snake sem alterações."
           else
             git commit -m "chore: update contribution snake"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
