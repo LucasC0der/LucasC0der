@@ -43,9 +43,9 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasC0der/LucasC0der/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasC0der/LucasC0der/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/LucasC0der/LucasC0der/output/github-contribution-grid-snake.svg" width="98%" alt="Snake das contribuições do GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasC0der/LucasC0der/main/output/github-contribution-grid-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasC0der/LucasC0der/main/output/github-contribution-grid-snake.gif" />
+    <img src="https://raw.githubusercontent.com/LucasC0der/LucasC0der/main/output/github-contribution-grid-snake-dark.gif" width="98%" alt="Snake animada das contribuições do GitHub" />
   </picture>
 </p>
 
