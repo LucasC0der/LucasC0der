@@ -34,13 +34,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasC0der&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasC0der&layout=donut&langs_count=6&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages&count_private=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasC0der&theme=radical" width="70%" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasC0der&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=LucasC0der&theme=radical&hide_border=true" width="70%" />
 </p>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasC0der&theme=radical" width="70%" />
+</div>
 
 <br>
 
