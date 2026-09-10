@@ -29,13 +29,11 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- TOPO: estatísticas gerais -->
-  <img src="https://raw.githubusercontent.com/LucasC0der/LucasC0der/main/profile-summary-card-output/tokyonight/3-stats.svg" width="58%" alt="Estatísticas do GitHub" />
+  <img src="./profile/github-stats.svg" width="58%" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <!-- BASE: linguagens + sequência -->
-  <img src="https://raw.githubusercontent.com/LucasC0der/LucasC0der/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="46%" alt="Most Used Languages" />
+  <img src="./profile/top-langs.svg" width="46%" alt="Most Used Languages" />
   <img src="https://streak-stats.demolab.com?user=LucasC0der&theme=tokyonight&hide_border=true&border_radius=14&locale=pt_BR" width="46%" alt="Sequência de contribuições" />
 </p>
 
