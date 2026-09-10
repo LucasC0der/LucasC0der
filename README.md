@@ -34,15 +34,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasC0der&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasC0der&theme=radical" width="70%" />
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasC0der&theme=radical&hide_border=true" width="70%" />
-</p>
+<br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasC0der&theme=radical" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=LucasC0der&theme=radical&hide_border=true" width="70%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasC0der&theme=radical" width="70%" />
 </div>
 
 <br>
