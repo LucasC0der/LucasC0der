@@ -12,7 +12,7 @@
 
 </div>
 
-## 👨‍💻 Sobre mim/About me 
+## 🧑‍💻 Sobre mim / About me
 
 Sou estudante e desenvolvedor, focado em aprender programação na prática e transformar ideias em projetos reais. Gosto de criar interfaces, testar tecnologias e evoluir meus projetos aos poucos.
 
@@ -22,7 +22,7 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 </div>
 
-## 🛠️ Core skills/Frameworks
+## 🛠️ Core skills / Frameworks
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,python,lua,html,css,react,nodejs,git,github,vscode&perline=10" alt="Tecnologias" />
@@ -31,27 +31,30 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/LucasC0der">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasC0der&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=14&theme=tokyonight&locale=pt-br" width="48%" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/LucasC0der">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasC0der&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide_border=true&border_radius=14&theme=tokyonight&locale=pt-br&custom_title=Most%20Used%20Languages" width="48%" alt="Most Used Languages" />
-  </a>
-</div>
 
-<br>
+<!-- TOPO DO TRIÂNGULO: estatísticas gerais -->
+<a href="https://github.com/LucasC0der">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasC0der&theme=tokyonight&border_color=58A6FF" width="58%" alt="Estatísticas do GitHub" />
+</a>
 
-<div align="center">
-  <a href="https://github.com/LucasC0der">
-    <img src="https://streak-stats.demolab.com/?user=LucasC0der&theme=tokyonight&hide_border=true&border_radius=14&locale=pt_BR" width="62%" alt="Sequência de contribuições" />
-  </a>
+<br><br>
+
+<!-- BASE DO TRIÂNGULO: linguagens + sequência -->
+<a href="https://github.com/LucasC0der">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasC0der&theme=tokyonight" width="46%" alt="Most Used Languages" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/LucasC0der">
+<img src="https://streak-stats.demolab.com?user=LucasC0der&theme=tokyonight&hide_border=true&border_radius=14&locale=pt_BR" width="46%" alt="Sequência de contribuições" />
+</a>
+
 </div>
 
 ## 🚀 Projetos em destaque
 
-- **Study App** — plataforma de estudos com flashcards, diagnósticos, acompanhamento de desempenho e recursos para aprendizagem.( em desenvolvimento )
-- **Streamflix** — projeto focado em interface e desenvolvimento web. (academico)
-- **JavaScriptReceba** — exercícios e experimentos para praticar JavaScript. (academico)
+- **Study App** — plataforma de estudos com flashcards, diagnósticos, acompanhamento de desempenho e recursos para aprendizagem. *(em desenvolvimento)*
+- **Streamflix** — projeto focado em interface e desenvolvimento web. *(acadêmico)*
+- **JavaScriptReceba** — exercícios e experimentos para praticar JavaScript. *(acadêmico)*
 
 <div align="center">
 
