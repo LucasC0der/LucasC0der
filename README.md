@@ -1,7 +1,11 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+%7C+Estudante+%7C+Criador;JavaScript,+Python+%7C+Lua;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Texto animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=LucasC0der&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner animado LucasC0der" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+%7C+Estudante+%7C+Criador;JavaScript+%7C+Python+%7C+Lua;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Texto animado" />
 </p>
 
 <p align="center">
@@ -10,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👋 Sobre mim
 
 Sou estudante e desenvolvedor, focado em aprender programação na prática e transformar ideias em projetos reais. Gosto de criar interfaces, testar tecnologias e evoluir meus projetos aos poucos.
 
@@ -18,7 +22,7 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 ---
 
-## 🛠️ Core skills / Frameworks
+## 🛠️ Core Skills / Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,lua,html,css,react,nodejs,git,github,vscode&perline=10" alt="Tecnologias" />
@@ -34,7 +38,7 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 <p align="center">
   <img src="./profile/top-langs.svg" width="46%" alt="Most Used Languages" />
-  <img src="https://streak-stats.demolab.com?user=LucasC0der&theme=tokyonight&hide_border=true&border_radius=14&locale=pt_BR" width="46%" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=LucasC0der&theme=tokyonight&hide_border=true&border_radius=14&locale=pt_BR" width="46%" alt="Sequência de contribuições" />
 </p>
 
 ---
