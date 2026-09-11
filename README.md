@@ -1,6 +1,10 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
+  <img src="https://i.pinimg.com/originals/67/4e/e7/674ee756d3b80d693f3f52057f14efa7.gif" width="500" alt="Gatinho animado" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+%7C+Estudante+%7C+Criador;JavaScript+%7C+Python+%7C+Lua;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Texto animado" />
 </p>
 
