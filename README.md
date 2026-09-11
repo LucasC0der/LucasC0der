@@ -59,7 +59,7 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 ## 🚀 Projetos / projects
 
-- **Study App** — plataforma de estudos com flashcards, diagnóstico, acompanhamento de desempenho e recursos para aprendizagem. *(em desenvolvimento)*
+- **Trilha - App de estudos** — plataforma de estudos com flashcards, diagnóstico, acompanhamento de desempenho e recursos para aprendizagem. *(em desenvolvimento)*
 - **Streamflix** — projeto focado em interface e desenvolvimento web. *(acadêmico)*
 - **exercicios-javascript** — exercícios e experimentos para praticar JavaScript. *(acadêmico)*
 
