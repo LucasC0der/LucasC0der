@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=LucasC0der&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner animado LucasC0der" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+%7C+Estudante+%7C+Criador;JavaScript+%7C+Python+%7C+Lua;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Texto animado" />
 </p>
 
@@ -18,11 +14,13 @@
 
 Sou estudante e desenvolvedor, focado em aprender programação na prática e transformar ideias em projetos reais. Gosto de criar interfaces, testar tecnologias e evoluir meus projetos aos poucos.
 
-<p align="center"><strong>Aprendendo. Construindo. Evoluindo.</strong></p>
+<p align="center">
+  <strong>Aprendendo. Construindo. Evoluindo.</strong>
+</p>
 
 ---
 
-## 🛠️ Core Skills / Frameworks
+## 🛠️ Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,lua,html,css,react,nodejs,git,github,vscode&perline=10" alt="Tecnologias" />
@@ -57,7 +55,7 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 ## 🚀 Projetos em destaque
 
-- **Study App** — plataforma de estudos com flashcards, diagnósticos, acompanhamento de desempenho e recursos para aprendizagem. *(em desenvolvimento)*
+- **Study App** — plataforma de estudos com flashcards, diagnóstico, acompanhamento de desempenho e recursos para aprendizagem. *(em desenvolvimento)*
 - **Streamflix** — projeto focado em interface e desenvolvimento web. *(acadêmico)*
 - **JavaScriptReceba** — exercícios e experimentos para praticar JavaScript. *(acadêmico)*
 
@@ -65,8 +63,4 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
   <a href="https://github.com/LucasC0der?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORAR_MEUS_REPOSITÓRIOS-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=fadeIn" width="100%" />
 </p>
