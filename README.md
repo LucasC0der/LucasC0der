@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 Sobre mim
+## 👋 Sobre mim / About me
 
 Sou estudante e desenvolvedor, focado em aprender programação na prática e transformar ideias em projetos reais. Gosto de criar interfaces, testar tecnologias e evoluir meus projetos aos poucos.
 
@@ -24,7 +24,7 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Core skills / Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,lua,html,css,react,nodejs,git,github,vscode&perline=10" alt="Tecnologias" />
@@ -32,7 +32,7 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas / Status
 
 <p align="center">
   <img src="./profile/github-stats.svg" width="58%" alt="Estatísticas do GitHub" />
@@ -45,7 +45,7 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 ---
 
-## 🐍 Snake das contribuições
+## 🐍 contribuições / Contributing
 
 <p align="center">
   <picture>
@@ -57,11 +57,11 @@ Sou estudante e desenvolvedor, focado em aprender programação na prática e tr
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos / projects
 
 - **Study App** — plataforma de estudos com flashcards, diagnóstico, acompanhamento de desempenho e recursos para aprendizagem. *(em desenvolvimento)*
 - **Streamflix** — projeto focado em interface e desenvolvimento web. *(acadêmico)*
-- **JavaScriptReceba** — exercícios e experimentos para praticar JavaScript. *(acadêmico)*
+- **exercicios-javascript** — exercícios e experimentos para praticar JavaScript. *(acadêmico)*
 
 <p align="center">
   <a href="https://github.com/LucasC0der?tab=repositories">
